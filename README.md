@@ -45,9 +45,7 @@ This workflow is designed to automatically fetch and send the **top 10 news head
 
 ### 🖼️ Workflow Image:
 
-```
-![News Aggregator](https://your-image-url-here.com/news-aggregator.png)
-```
+![image alt](https://github.com/NithinSangsi/n8n/blob/908d84fc101bbaedc685371eedbb10ff199b4d13/Agent-1.png)
 
 ---
 
@@ -79,9 +77,7 @@ This workflow handles form submissions by storing user data and sending a confir
 
 ### 🖼️ Workflow Image:
 
-```
-![Form Submission](https://your-image-url-here.com/form-submission.png)
-```
+![image alt](https://github.com/NithinSangsi/n8n/blob/908d84fc101bbaedc685371eedbb10ff199b4d13/Agent-2.png)
 
 ---
 
@@ -114,10 +110,7 @@ It acts like a **team lead or assistant**, capable of handling queries asked by 
 
 ### 🖼️ Workflow Image:
 
-```
-![AI Agent](https://your-image-url-here.com/ai-agent.png)
-```
-
+![image alt](https://github.com/NithinSangsi/n8n/blob/908d84fc101bbaedc685371eedbb10ff199b4d13/Agent-3.png)
 ---
 
 # 🛠️ Tech Stack
