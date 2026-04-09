@@ -151,22 +151,7 @@ It demonstrates how automation can simplify real-world tasks and improve product
 
 ---
 
-# 📎 How to Add Your Images
 
-1. Upload your images to GitHub (inside your repo)
-2. Replace the URLs above with:
-
-```
-![Image Name](./images/your-image.png)
-```
-
-OR use external hosting:
-
-```
-![Image Name](https://your-hosted-link.com/image.png)
-```
-
----
 
 ⭐ *This repository is part of my continuous learning journey in automation and AI systems.*
 
